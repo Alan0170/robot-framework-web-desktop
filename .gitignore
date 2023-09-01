@@ -1,0 +1,45 @@
+# Python e Robot Framework
+__pycache__/
+*.pyc
+
+# Ambientes Virtuais
+venv/
+env/
+env*/
+virtualenv/
+.venv/
+
+# Logs e Relatórios
+output.xml
+log.html
+report.html
+*.log
+
+# Arquivos de Configuração
+*.yaml
+*.yml
+*.json
+*.config
+*.properties
+
+# SikuliX
+.sikuli/
+.sikuli_captured
+.sikuli-ide/
+sikulixapi.jar
+.sikulixprefs.txt
+
+# Selenium WebDriver
+.geckodriver.log
+geckodriver.log
+chromedriver.log
+chromedriver
+
+# Arquivos temporários e de sistema
+*~
+.DS_Store
+Thumbs.db
+
+# Outros
+.idea/
+.vscode/
