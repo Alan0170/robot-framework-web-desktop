@@ -1,6 +1,6 @@
 ### Projeto de Testes de Conexão a uma Instância como usuário usando Robot Framework
 
-Este repositório contém um projeto de testes automatizados relacionados à conexão a uma instância usando o Robot Framework. O projeto é voltado para sistemas Windows e utiliza as bibliotecas Selenium, Sikuli e Robot Framework. Este documento irá guiá-lo através do projeto, fornecendo informações sobre sua estrutura, comandos do Robot Framework, uma explicação das principais palavras-chave utilizadas e como executar os testes.
+Este repositório contém um projeto de testes automatizados relacionados à conexão a uma instância usando o Robot Framework. O projeto utiliza as bibliotecas Selenium, Sikuli e Robot Framework. Este documento irá guiá-lo através do projeto, fornecendo informações sobre sua estrutura, comandos do Robot Framework, uma explicação das principais palavras-chave utilizadas e como executar os testes.
 
 ## Estrutura do Projeto ##    
 A estrutura do projeto é organizada da seguinte forma:
