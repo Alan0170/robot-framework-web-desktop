@@ -65,7 +65,7 @@ Siga estas etapas para configurar o projeto de testes em sua máquina:
 **1. Clonando o Repositório**   
 Clone este repositório em sua máquina usando o Git:
 
-`git clone https://`
+`git clone git@github.com:Alan0170/robot-framework-web-desktop.git`
 Substitua seu-usuario/seu-projeto pelo URL do repositório real.
 
 **2. Navegando para a Pasta do Projeto**     
